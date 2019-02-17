@@ -1,3 +1,3 @@
 x = 1
 
-x = "letters"
+x = 1
